@@ -1514,10 +1514,6 @@
         font-size: 24px;
     }
 
-    .examples {
-        display: none;
-    }
-
     .for-mobile {
         display: none;
     }
@@ -1538,7 +1534,6 @@
     .examples {
         display: none;
     }
-
 }
 
 
